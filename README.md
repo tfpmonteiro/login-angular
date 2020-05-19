@@ -1,4 +1,6 @@
-# PrimeiroProjeto
+# InputComponent
+O objetivo deste projeto é apresentar uma tela de login com componentes de input com label flot através da estilização do CSS.
+********************************
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
@@ -13,7 +15,3 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Descrição
-
-O objetivo deste projeto é apresentar uma tela de login com componentes de input com label flot através da estilização do CSS.
